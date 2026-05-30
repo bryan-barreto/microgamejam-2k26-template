@@ -1,6 +1,6 @@
 extends Node2D
 
-var main = preload("res://src/main.gd")
+var main = preload("res://scenes/main.tscn")
 
 func _ready() -> void:
 	JavaScriptBridge.eval("window.parent.postMessage({op: \"ready\"});")
