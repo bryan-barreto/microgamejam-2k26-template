@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://dtjacob8k33e4"
-path="res://.godot/imported/spleen-8x16.otf-b5f7d026742b04c593a5e548c00f1fe7.fontdata"
+uid="uid://cjmdvl6wh4683"
+path="res://.godot/imported/spleen-12x24.otf-58acbef2a3be714a92e349350eaa2713.fontdata"
 
 [deps]
 
-source_file="res://ExternalAssets/spleen-2.2.0/spleen-8x16.otf"
-dest_files=["res://.godot/imported/spleen-8x16.otf-b5f7d026742b04c593a5e548c00f1fe7.fontdata"]
+source_file="res://extAssets/spleen-2.2.0/spleen-12x24.otf"
+dest_files=["res://.godot/imported/spleen-12x24.otf-58acbef2a3be714a92e349350eaa2713.fontdata"]
 
 [params]
 
