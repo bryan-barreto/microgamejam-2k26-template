@@ -1,5 +1,7 @@
 # LCOLONQ MICROGAME JAM 2K26 GODOT TEMPLATE
 
+HTML Wrapper by Bytomancer https://github.com/bytomancer
+
 ## Test for Web
 Select "Remote Display", the 4th icon at the top-right of the Godot Editor
 
